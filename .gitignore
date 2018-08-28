@@ -1,0 +1,19 @@
+*.egg-info/
+.ipynb_checkpoints/
+dist/
+build/
+*.py[cod]
+
+# OS X
+.DS_Store
+
+# CLion
+.idea/
+
+# build artifacts
+.about.json
+.index.json
+.paths.json
+.recipe.json
+repodata.json*
+var/
